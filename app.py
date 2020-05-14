@@ -1,3 +1,8 @@
+##########################
+# Name: Kamryn Voutes
+# UNI: krv2119
+# Description: webpage with personal bio, class description, and Kate Mckinnon pages
+##########################
 # -*- coding: utf-8 -*-
 """
 Created on Tue Apr 21 14:57:17 2020
