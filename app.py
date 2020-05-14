@@ -20,9 +20,9 @@ def bio():
 def classes():
     return render_template("classes.html")
 
-@app.route("/other")
-def other():
-    return render_template("other")
+@app.route("/Kate")
+def Kate():
+    return render_template("Kate.html")
 #start the server
 if __name__ == "__main__":
     app.run()
